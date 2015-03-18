@@ -1,7 +1,8 @@
 %%Lab1   Using the T equivalent circuit find RMS Voltage and Power for
 %%given Load Resister and Frequency Values
 %Output power does not continue to increase as load is decreased because
-%the current drops off at saturation.format compact
+%the current drops off at saturation.
+format compact
 clc
 clear all
 Lm1=262.9e-3;  %Henry
